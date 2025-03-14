@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PokemonFacts.v2", "PokemonFacts.v2\PokemonFacts.v2.pyproj", "{517285FD-BA54-4424-BDBC-48333EC83756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517285FD-BA54-4424-BDBC-48333EC83756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517285FD-BA54-4424-BDBC-48333EC83756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E87AFC-2C6C-496F-A051-B8FBF13BC049}
+	EndGlobalSection
+EndGlobal
